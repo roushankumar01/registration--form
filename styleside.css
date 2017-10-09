@@ -1,0 +1,24 @@
+body{
+	background-color: #79e5a8;
+}
+.nav{
+	background-color: #79e5a8;
+	color: white;
+}
+.nav ul{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+.nav ul li{
+	padding: 16px;
+	text-align: center;
+	font: 24px;
+	border-bottom: 2px solid black
+	transition: background-color 0.2s;
+
+}
+.nav ul li:hover{
+	background-color:black;
+}
